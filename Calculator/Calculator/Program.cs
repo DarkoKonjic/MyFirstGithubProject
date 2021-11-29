@@ -16,6 +16,7 @@ namespace Calculator
 
             Console.WriteLine($"{operand1} / {operand2} = {operand1 / operand2}");
             Console.WriteLine($"{operand1} + {operand2} = {operand1 + operand2}");
+            Console.WriteLine($"{operand1} * {operand2} = {operand1 * operand2}");
         }
     }
 }
