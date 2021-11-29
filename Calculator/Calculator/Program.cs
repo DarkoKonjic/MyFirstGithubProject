@@ -15,6 +15,7 @@ namespace Calculator
             int operand2 = int.Parse(Console.ReadLine());
 
             Console.WriteLine($"{operand1} / {operand2} = {operand1 / operand2}");
+            Console.WriteLine($"{operand1} + {operand2} = {operand1 + operand2}");
         }
     }
 }
